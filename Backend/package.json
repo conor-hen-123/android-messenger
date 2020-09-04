@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "mongod": "^2.0.0",
-    "mongodb": "^2.2.36",
+    "mongodb": "^3.1.13",
     "express": "^4.15.3",
     "nodemon": "^1.11.0",
     "socket.io": "^2.0.3"
